@@ -1,5 +1,6 @@
 #include <SPI.h>
 #include <WiFiNINA.h>
+#include <PID_v1.h>
 
 const char SSID[] = "X1C";  //Hotspot name and password
 const char PASSWORD[] = "supersonic";
